@@ -197,7 +197,6 @@ footer {
     margin-bottom: 5rem;
   }
   .main-content img {
-    border: 1px solid #000;
     margin: 4rem 8rem;
   }
   .main-content button {
@@ -207,7 +206,6 @@ footer {
     text-align: center;
   }
   .work-content-block {
-    border: 3px solid #000;
     margin-top: 2.5rem;
     padding: 2.5rem;
     height: 24rem;
